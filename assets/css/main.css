@@ -749,6 +749,10 @@ a {
 				width: 100%;
 			}
 
+			.image.fit:hover {
+				opacity:0.9
+			}
+
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
